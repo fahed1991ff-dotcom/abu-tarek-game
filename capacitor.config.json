@@ -1,6 +1,6 @@
 {
   "appId": "com.abutarek.halaweteljibn",
   "appName": "أبو طارق الغاوي",
-  "webDir": "www",
+  "webDir": ".",
   "server": {"androidScheme": "https"}
 }
