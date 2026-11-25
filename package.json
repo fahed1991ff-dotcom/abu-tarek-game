@@ -1,0 +1,12 @@
+{
+  "name": "abu-tarek-halawet-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "أبو طارق الغاوي - حلاوة الجبن",
+  "scripts": {"build": "echo Web game ready"},
+  "dependencies": {
+    "@capacitor/android": "^6.2.1",
+    "@capacitor/core": "^6.2.1"
+  },
+  "devDependencies": {"@capacitor/cli": "^6.2.1"}
+}
